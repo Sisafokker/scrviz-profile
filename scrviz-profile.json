@@ -1,10 +1,10 @@
 {
  "scrviz":
     {"owner":
-        {"login": "sisafokker",
+        {"login": "Sisafokker",
         "rows": [ 
                 {
-                    "description": "My Website (For Spanish-speakers only)",
+                    "description": "Google Workspace Consultant - Website",
                     "link": "https://hoakeen.com",
                     "tip": "Google Workspace Consultant",
                     "icon": "hammer-screwdriver",
@@ -30,7 +30,7 @@
                     "icon": "youtube",
                     "visible": true
                 }
-                ]
+            ]
         }
     }
 }
