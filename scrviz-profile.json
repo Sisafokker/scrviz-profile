@@ -1,0 +1,36 @@
+{
+ "scrviz":
+    {"owner":
+        {"login": "sisafokker",
+        "rows": [ 
+                {
+                    "description": "My Website (For Spanish-speakers only)",
+                    "link": "https://hoakeen.com",
+                    "tip": "Google Workspace Consultant",
+                    "icon": "hammer-screwdriver",
+                    "visible": true
+                },
+                {
+                    "description": "Linkedin Profile",
+                    "link": "https://www.linkedin.com/in/joaquinpagliettini/",
+                    "tip": "Joaquin's linkedin profile",
+                    "icon": "linkedin",
+                    "visible": true},
+                {
+                    "description": "Google for Education Directory",
+                    "link": "https://edudirectory.withgoogle.com/profiles/5705125167366144",
+                    "tip": "Google Certified Trainer, Innovator, Educator",
+                    "icon": "mdi-code-tags",
+                    "visible": true
+                },
+                {
+                    "description": "Training Video Platform (Spanish only)",
+                    "link": "https://www.eskoola.com/",
+                    "tip": "Joaquin's Google Workspace Tutorials",
+                    "icon": "youtube",
+                    "visible": true
+                }
+                ]
+        }
+    }
+}
