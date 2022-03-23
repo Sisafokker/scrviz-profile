@@ -6,7 +6,7 @@
                 {
                     "description":"Google Workspace Consultant - Website",
                     "link":"https://hoakeen.com",
-                    "tip" "Google Workspace Consultant",
+                    "tip":"Google Workspace Consultant",
                     "icon":"hammer-screwdriver",
                     "visible":true
                 },
@@ -24,11 +24,11 @@
                     "visible":true
                 },
                 {
-                    "description": "Training Video Platform (Spanish only)",
-                    "link": "https://www.eskoola.com/",
-                    "tip": "Joaquin's Google Workspace Tutorials",
-                    "icon": "youtube",
-                    "visible": true
+                    "description":"Training Video Platform (Spanish only)",
+                    "link":"https://www.eskoola.com/",
+                    "tip":"Joaquin's Google Workspace Tutorials",
+                    "icon":"youtube",
+                    "visible":true
                 }
             ]
         }
